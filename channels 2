@@ -22,6 +22,12 @@ acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="Sky sport PL" tvg-name="Sky Sport PL" tvg-logo="https://www.dslweb.de/public/resources/_processed_/d/d/csm_sky-premier-league-live-bis-2025_3ac93f5f1b.jpg" group-title="ENGLAND SPORTS", Sky Sport PL
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
-#EXTINF:-1 group-title="Sweden",SE039 VIASAT FOTBOLL Backup NO_1 iptvlister.com
-http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51528#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Diema Sport1" tvg-name=" Diema Sport1" tvg-logo="https://l.potv.bg/b/diema-sport-hd.png" group-title="ENGLAND SPORTS", Diema Sport1
+acestream://75ca8b97d36a9e086c2ed8145e33c00496fb6002
+
+#EXTINF:-1 tvg-id="Diema Sport2" tvg-name=" Diema Sport2" tvg-logo="https://1.bp.blogspot.com/-6W_ZgUHKKa0/WR8Dn0OUQII/AAAAAAAAC_8/4ygXLVf71hs0RIhFgJC4LKiImUhUJbpvQCLcB/s1600/DIEMA%2BSPORT%2B2.jpg" group-title="ENGLAND SPORTS", Diema Sport2
+acestream://62d2c4663aef06df2907e7373b9542e645fe23c5
+
+#EXTINF:-1 tvg-id="Diema Sport3" tvg-name=" Diema Sport3" tvg-logo="https://tntuniversaltv.com/wp-content/uploads/2022/12/Sans-titre-1-17.png" group-title="ENGLAND SPORTS", Diema Sport3
+acestream://cc7fd7d3bed2c345abdf14e0c64e9b6618c0450f
 
