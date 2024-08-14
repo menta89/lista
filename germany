@@ -51,3 +51,11 @@ acestream://86495fe134ff065d5217497babe6be33f81d37d1
 #EXTINF:-1 tvg-id="Magenta sport10" tvg-name="Magenta Sport10" tvg-logo="https://artofsmart.de/wp-content/uploads/2021/05/magenta-tv-fernsehen.png" group-title="GERMANY",Magenta Sport10
 acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 
+#EXTINF:-1 tvg-id="SKY SPORT TENIS" tvg-name="SKY SPORT TENIS" tvg-logo="https://www.dslweb.de/public/resources/images/logos/sender/sky-sport-tennis-hd-logo.jpg" group-title="GERMANY",SKY SPORT TENIS
+acestream://e8df0d4e2b507f92551336575a72c4288b6aabbc
+
+#EXTINF:-1 tvg-id="SKY SPORT TOP EVENT" tvg-name="SKY SPORT TOP EVENT" tvg-logo="https://www.sky-angebote.info/wp-content/uploads/2022/07/1014_sky_logo_sky-sport-top-event-hd_tvguide.png" group-title="GERMANY", SKY SPORT TOP EVENT
+acestream://6fa76e8a2c7911e10e052ff42c624199b7ef7e5c
+
+#EXTINF:-1 tvg-id="ORF SPORT+" tvg-name="ORF SPORT+" tvg-logo="https://tubestatic.orf.at/static/images/site/tube/20141042/17.10.14-sporthd.5298157.jpg" group-title="GERMANY",ORF SPORT+
+acestream://b0eaeeb0bf4ab5946bfa840d9ceec3a14c93f4c5
