@@ -42,3 +42,6 @@ acestream://dfa141e0b9a34165cb7ff9b3789d6e87d2524e32
 
 #EXTINF:-1 tvg-id="Golf channel" tvg-name=" Golf channel" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Golf-Channel.png" group-title="ENGLAND SPORTS", Golf channel
 acestream://c754e72df523c5872607aa76e4eac352271e5223
+
+#EXTINF:-1 tvg-id="DIGI SPORT 2" tvg-name=" DIGI SPORT 2" tvg-logo="https://1.bp.blogspot.com/-yNv_7mRh0h0/XsghqXW759I/AAAAAAAADF0/w7pbHrBvQug2f-Kx1aeTsuY7XGjEXz_FgCLcBGAsYHQ/w1200-h630-p-k-no-nu/digi%2Bsport%2B2%2Bhd.jpg" group-title="ENGLAND SPORTS", DIGI SPORT 2
+acestream://4d96d3cac0691714bf60e97832a7ea1fd632d412
