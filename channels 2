@@ -31,3 +31,5 @@ acestream://62d2c4663aef06df2907e7373b9542e645fe23c5
 #EXTINF:-1 tvg-id="Diema Sport3" tvg-name=" Diema Sport3" tvg-logo="https://tntuniversaltv.com/wp-content/uploads/2022/12/Sans-titre-1-17.png" group-title="ENGLAND SPORTS", Diema Sport3
 acestream://cc7fd7d3bed2c345abdf14e0c64e9b6618c0450f
 
+#EXTINF:-1 tvg-id="ESPN US" tvg-name=" ESPN US" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Symbol.png" group-title="ENGLAND SPORTS", ESPN US
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
