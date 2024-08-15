@@ -36,3 +36,9 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
 #EXTINF:-1 tvg-id="ESPN US 2" tvg-name=" ESPN US 2" tvg-logo="https://logodix.com/logo/1870690.png" group-title="ENGLAND SPORTS", ESPN US 2
 acestream://664eb5fe460b96941aed633959a845b185cd8394
+
+#EXTINF:-1 tvg-id="tenis channel us" tvg-name=" tenis channel us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="ENGLAND SPORTS", tenis channel us
+acestream://dfa141e0b9a34165cb7ff9b3789d6e87d2524e32
+
+#EXTINF:-1 tvg-id="Golf channel" tvg-name=" Golf channel" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Golf-Channel.png" group-title="ENGLAND SPORTS", Golf channel
+acestream://c754e72df523c5872607aa76e4eac352271e5223
