@@ -4,10 +4,10 @@ acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 tvg-id="SPORTDIGITAL" tvg-name="SPORTDIGITAL" tvg-logo="https://seeklogo.com/images/S/sportdigital-logo-54099B0CD9-seeklogo.com.png" group-title="GERMANY",SPORTDIGITAL
 acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 
-#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="GERMANY",DAZN1
+#EXTINF:-1 tvg-id="DAZN 1 GER" tvg-name="DAZN 1 GER" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="GERMANY",DAZN 1 GER
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://i.ibb.co/LpdCdf2/dazn2.png" group-title="GERMANY",DAZN2
+#EXTINF:-1 tvg-id="DAZN 2 GER" tvg-name="DAZN GER" tvg-logo="https://i.ibb.co/LpdCdf2/dazn2.png" group-title="GERMANY",DAZN 2 GER
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 #EXTINF:-1 tvg-id="Sport1" tvg-name="Sport1" tvg-logo="https://static.filmon.com/assets/channels/4121/extra_big_logo.png" group-title="GERMANY",Sport1
