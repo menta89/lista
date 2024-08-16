@@ -84,3 +84,6 @@ acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a
 
 #EXTINF:-1 tvg-id="ESPN NL4" tvg-name="ESPN NL4" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nl-espn-4-244.png" group-title="ELEVEN",ESPN NL4
 acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
+
+#EXTINF:-1 tvg-id="SUPER TENNIS" tvg-name="SUPER TENNIS" tvg-logo="https://archive.org/download/supersport-tennis-1/unnamed.png" group-title="ELEVEN",SUPER TENNIS
+acestream://b58dbf92765976b308695f62dea94b00b40730ee
