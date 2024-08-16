@@ -64,3 +64,11 @@ acestream://3a21b411e9b764efefc0c2166ca07f4655b3d31c
 #EXTINF:-1 tvg-id="ZIGGO SPORT SELECT" tvg-name="ZIGGO SPORT SELECT " tvg-logo="https://i.ytimg.com/vi/x9HvEK03iJs/maxresdefault.jpg" group-title="ELEVEN",ZIGGO SPORT SELECT
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 
+#EXTINF:-1 tvg-id="ZIGGO SPORT VOETBAL" tvg-name="ZIGGO SPORT VOETBAL " tvg-logo="https://i.ytimg.com/vi/WEsK4tUx7vA/maxresdefault.jpg" group-title="ELEVEN",ZIGGO SPORT VOETBAL
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+
+#EXTINF:-1 tvg-id="ZIGGO SPORT GOLF" tvg-name="ZIGGO SPORT GOLF " tvg-logo="https://i.ytimg.com/vi/D0bsKRsD2aU/maxresdefault.jpg" group-title="ELEVEN",ZIGGO SPORT GOLF
+acestream://035e34b791335962ca817f42fd14300382af3797
+
+#EXTINF:-1 tvg-id="ZIGGO SPORT RACING" tvg-name="ZIGGO SPORT RACING " tvg-logo="https://i.ytimg.com/vi/4ac6fpzHnRs/maxresdefault.jpg" group-title="ELEVEN",ZIGGO SPORT RACING
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
