@@ -74,6 +74,7 @@ acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 EXTINF:-1 tvg-id="ZIGGO SPORT GOLF" tvg-name="ZIGGO SPORT GOLF" tvg-logo="https://i.ytimg.com/vi/D0bsKRsD2aU/maxresdefault.jpg" group-title="ELEVEN",ZIGGO SPORT GOLF
 acestream://035e34b791335962ca817f42fd14300382af3797
 
-
+#EXTINF:-1 tvg-name="ERT Sports 1" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports1.gr" group-title="Greece",ERT Sports 1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
 
