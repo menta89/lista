@@ -19,6 +19,9 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="ELEVEN SPORT 1 PL" tvg-name="ELEVEN SPORT 1 PL" tvg-logo="https://s5.vcdn.biz/static/f/5713833461/image.jpg" group-title="ELEVEN",ELEVEN SPORT 1 PL
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
+#EXTINF:-1 tvg-id="" tvg-name="FR - BEIN SPORTS MAX 4 HD" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" group-title="France",FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58756
+
 #EXTINF:-1 tvg-id="ELEVEN SPORT 2 PL" tvg-name="ELEVEN SPORT 2 PL" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1023-eleven-sports-2-hd.png" group-title="ELEVEN",ELEVEN SPORT 2 PL
 acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
 
@@ -87,3 +90,7 @@ acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
 
 #EXTINF:-1 tvg-id="SUPER TENNIS" tvg-name="SUPER TENNIS" tvg-logo="https://archive.org/download/supersport-tennis-1/unnamed.png" group-title="ELEVEN",SUPER TENNIS
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
+
+#EXTINF:-1 tvg-id="" tvg-name="FR - BEIN SPORTS MAX 4 HD" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" group-title="France",FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58756
+
