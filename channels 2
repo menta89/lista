@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES FHD"https://tvguia.info/wp-content/uploads/2022/05/Movistar-Series-svg.png" group-title="SpainTv",ES: MOVISTAR SERIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES FHD "https://tvguia.info/wp-content/uploads/2022/05/Movistar-Series-svg.png" group-title="SpainTv",ES: MOVISTAR SERIES FHD
 http://4.hdstreams.site:8000/live/Bogdan-facebook-/jcwjunT4YqGr/22935.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="" group-title="SpainTv",ES: CAZA Y PESCA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA FHD""" group-title="SpainTv",ES: CAZA Y PESCA FHD
 http://4.hdstreams.site:8000/live/Bogdan-facebook-/jcwjunT4YqGr/22786.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="SpainTv",ES: NATIONAL GEOGRAPHIC HD
