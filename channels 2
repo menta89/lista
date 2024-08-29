@@ -41,8 +41,11 @@ http://4.hdstreams.site:8000/live/Bogdan-facebook-/jcwjunT4YqGr/73.ts
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2 HD" tvg-logo="https://i0.1616.ro/media/2/2621/33222/19118245/2/ls.jpg?width=514" group-title="RomaniaTV",Prima Sport 2 HD
 http://4.hdstreams.site:8000/live/Bogdan-facebook-/jcwjunT4YqGr/75.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bayern FC TV" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2016/08/flag-of-germany-1024x552.png" group-title="GermanyTv",DE: Bayern FC TV
+http://4.hdstreams.site:8000/live/Bogdan-facebook-/jcwjunT4YqGr/21224.ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="[FR]_RMC SPORT 1 HD" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2016/08/flag-of-france-1024x671.png" group-title="FrantaTv",[FR]_RMC SPORT 1 HD
+http://4.hdstreams.site:8000/live/Bogdan-facebook-/jcwjunT4YqGr/30413.ts
 
 
 
