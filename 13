@@ -35,17 +35,18 @@ http://quiskay.ddns.net:80/play/pXmZdvGnr2qnX3quODzRAMpif8_g0ZOyIVu23ZTUpuC2-m3i
 #EXTINF:-1,ES** | M+ Copa del Rey FHD (ORANGE)
 http://quiskay.ddns.net:80/play/pXmZdvGnr2qnX3quODzRAMpif8_g0ZOyIVu23ZTUpuBfqWXk6ib-NaDe0NO39kJG/ts
 
+#EXTINF:-1 tvg-id="ELEVEN SPORT 1 POR" tvg-name="ELEVEN SPORT 1 POR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="ELEVEN",ELEVEN SPORT 1 POR
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
-#EXTINF:-1 tvg-id="M+ligacampeones4" tvg-name="M+ligacampeones4 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ENGLAND SPORTS", M+ligacampeones4
-acestream://42f8705aecde8d1f4c5b7c4086690b62d78a275e
+#EXTINF:-1 tvg-id="DAZN 1 GER" tvg-name="DAZN 1 GER" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="GERMANY",DAZN 1 GER
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1 tvg-id="M+ligacampeones5" tvg-name="M+ligacampeones5 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ENGLAND SPORTS", M+ligacampeones5
-acestream://9373bd982fa6dec7802f7ab2a58d7931638de1a5
+#EXTINF:-1 tvg-name="DE: SKY SPORT AUSTRIA 1 HD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6E4yVwuNaDNXDlVdBjY8OxtwlgcTE1wm0PT4azGqYBLucWH7cB4wBeM6nYOcE03mRrFlKBlfJsHGtwTy475ws7Rpxzd-aTzBxkZfSPqugeGE_Bd-yLbWEIty33KLsaRpTPxhCoRDP2tzJAXGvqksYF3.png" group-title="SVIP SPORTS",DE: SKY SPORT AUSTRIA 1 HD
+http://quiskay.ddns.net:80/play/pXmZdvGnr2qnX3quODzRAMpif8_g0ZOyIVu23ZTUpuDbikP5Yf8mIYP_O9zXTABC/ts
 
-#EXTINF:-1 tvg-id="M+ligacampeones6" tvg-name="M+ligacampeones6 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ENGLAND SPORTS", M+ligacampeones6
-acestream://316d845591178e24047678bf67c521c9a9b5c96c
+#EXTINF:-1 tvg-id="TNT SPORT 1" tvg-name="TNT SPORT1" tvg-logo="https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/05/TNTSports_Logo_OnGradient-scaled-e1676991325703-620x414.jpg" group-title="ENGLAND SPORTS", TNT SPORT1
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-id="M+ligacampeones7" tvg-name="M+ligacampeones7 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ENGLAND SPORTS", M+ligacampeones7
-acestream://d14c15f63bbfc7ca9dffa0ad259355a7546c6740
+
 
 
