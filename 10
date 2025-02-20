@@ -66,6 +66,16 @@ http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304241
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304243
 #EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/0280017d72e93f3e2aec427a9f9790ad.svg" group-title="Norway ➾ Football",NO: V Sport Premier League
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304581
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV 2 Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c75fc0a8075829d46662741881649ab6.png" group-title="Denmark ➾ Sports",DK: TV 2 Sport
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/4578
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV 2 Sport X" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/de26a0c6e9cc0c8c71b54a04c4b6e8f4.png" group-title="Denmark ➾ Sports",DK: TV 2 Sport X
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/227120
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV 3 Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/734e1fc29b70afdcc60cd4e4e1bc5194.png" group-title="Denmark ➾ Sports",DK: TV 3 Sport
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/4580
+#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/845f246ff9105ba49eec3b6d1c00c427.png" group-title="Denmark ➾ Sports",DK: V Sport Golf
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/298451
+#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport Ultra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ae3a8db538d2068bbe33a89eb0b8c2ba.png" group-title="Denmark ➾ Sports",DK: V Sport Ultra
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/298452
 
 
 
