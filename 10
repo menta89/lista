@@ -46,6 +46,26 @@ http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/6275
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/192678
 #EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Vinter" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3e728b9b011a9e6490de1988e4c8f45a.png" group-title="Sweden ➾ Sports",SE: V Sport Vinter
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/295029
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/9a3428ce7c421d059343763e929f2ad4.jpg" group-title="Norway ➾ Sports",NO: TV 2 Sport 1
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/281627
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/49ec576da9ada8dc41696464ebf2e5f0.jpg" group-title="Norway ➾ Sports",NO: TV 2 Sport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/21125
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 Sport Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/3c7698d4d09f0494ee08d064624e764e.jpg" group-title="Norway ➾ Sports",NO: TV 2 Sport Premium
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/277945
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 Sport Premium 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/3327c807a89512ef96169c7fd514712c.jpg" group-title="Norway ➾ Sports",NO: TV 2 Sport Premium 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/264547
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/183da74beb63ba7ef939532adb358cfe.svg" group-title="Norway ➾ Sports",NO: V Sport +
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/295309
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b66c3a0222aca431ca7d5dba6092f19.png" group-title="Norway ➾ Sports",NO: V Sport 1
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/264451
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/7e856afc9bc74a1419a5e09b8b2d6595.png" group-title="Norway ➾ Sports",NO: V Sport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304242
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/b6973fa35ac270647343c98ea851518c.png" group-title="Norway ➾ Sports",NO: V Sport 3
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304241
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/83b598c539acd4887c5f17f1162fccb8.png" group-title="Norway ➾ Sports",NO: V Sport Golf
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304243
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/0280017d72e93f3e2aec427a9f9790ad.svg" group-title="Norway ➾ Football",NO: V Sport Premier League
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304581
 
 
 
