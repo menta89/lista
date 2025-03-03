@@ -76,6 +76,17 @@ http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/4580
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/298451
 #EXTINF:-1 tvg-id="" tvg-name="DK: V Sport Ultra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ae3a8db538d2068bbe33a89eb0b8c2ba.png" group-title="Denmark ➾ Sports",DK: V Sport Ultra
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/298452
+#EXTINF:-1 tvg-id="" tvg-name="FI: MTV Urheilu 1/C More Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/787eb475db138c39b5d4801a25b8002b.svg" group-title="Finland ➾ Sports",FI: MTV Urheilu 1/C More Sport 1
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/6844
+#EXTINF:-1 tvg-id="" tvg-name="FI: TV4 Sport Live 2/C More Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/6db2076b44853f8bfc2e3f3036061152.png" group-title="Finland ➾ Sports",FI: TV4 Sport Live 2/C More Sport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/23379
+#EXTINF:-1 tvg-id="" tvg-name="FI: V Sport 1 Suomi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/2b3341bf99af701f0623d3190d71ec50.png" group-title="Finland",FI: V Sport 1 Suomi
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/297929
+#EXTINF:-1 tvg-id="" tvg-name="FI: V Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9275af5f50230aee4b77877a6859c0e9.png" group-title="Finland",FI: V Sport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304143
+#EXTINF:-1 tvg-id="" tvg-name="FI: V Sport 2 Suomi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/72bfefbc5b5b06cb191b2d76c56308e9.png" group-title="Finland",FI: V Sport 2 Suomi
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/297930
+
 
 
 
