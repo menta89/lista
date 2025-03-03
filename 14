@@ -54,3 +54,19 @@ http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/301482
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/301484
 #EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Start" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/de6669a9f7c29b7deeba613d4001d986.png" group-title="Greece ➾ Sports",GR: Nova Sports Start
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/295161
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/092ca41b13e75bb3663f7edb9d51dd11.png" group-title="Israel",IL: Yes Sport 1
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/14785
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ea5f7e1657fe4ca80ec2c9b4c71c43db.png" group-title="Israel",IL: Yes Sport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/14787
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/a00c1aac9c07960a982c16385e23460b.png" group-title="Israel",IL: Yes Sport 3
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/91282
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/89a451a18fa4be6ffe0b50d5ad2a6f4a.png" group-title="Israel",IL: Yes Sport 4
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/40609
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9678624c67f6ef9d184369e3bb25a73f.png" group-title="Israel",IL: Yes Sport 5
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/299189
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 5 Gold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/073919a81b876a3b099bed32c5474b2d.png" group-title="Israel",IL: Yes Sport 5 Gold
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/147174
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 5 Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/618a0173d3c8ac53dd7985282dc2e644.png" group-title="Israel",IL: Yes Sport 5 Plus
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/282063
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 5 Stars" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/3aba02d70d9cc12068dbcefcb9b19015.png" group-title="Israel",IL: Yes Sport 5 Stars
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/14788
