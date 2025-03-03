@@ -71,3 +71,28 @@ http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/27391
 #EXTINF:-1 tvg-id="" tvg-name="SI: SPORT TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b66bf39e8b5ab24bb6635b5e5d907f8f.png" group-title="Slovenia",SI: SPORT TV 3
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/27398
 #EXTINF:-1 tvg-id="" tvg-name="SI: Star Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/dd51f2b1731ae7eaec11972ba96b30f2.png" group-title="Slovenia",SI: Star Channel
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/9ac9490872a74c0c05fc4af402ebea1d.png" group-title="Bulgaria ➾ Sports",BG: Diema Sport
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/9181
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/7091344dc1997cf3eaf65cdc4745168e.png" group-title="Bulgaria ➾ Sports",BG: Diema Sport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/9180
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/11a7872b15a6d53648900b17a7ac4b9f.png" group-title="Bulgaria ➾ Sports",BG: Diema Sport 3
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/9179
+#EXTINF:-1 tvg-id="" tvg-name="BG: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9062adb13596cbbf1d3fb9b1ef7ebbb9.png" group-title="Bulgaria ➾ Sports",BG: Eurosport 1
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/32010
+#EXTINF:-1 tvg-id="" tvg-name="BG: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/e95e437e427ab9a0ff25505049a57c29.png" group-title="Bulgaria ➾ Sports",BG: Eurosport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/33578
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/f6b2689e64fee5a1b949025009295116.png" group-title="Bulgaria ➾ Sports",BG: Max Sport 1
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/20448
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/1778bf510c1faa63eb03357bd100036c.png" group-title="Bulgaria ➾ Sports",BG: Max Sport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/20449
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/8401bec47f0faa8fd74db2bfc508550b.png" group-title="Bulgaria ➾ Sports",BG: Max Sport 3
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/16431
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/089325939b31e224302cf93a59be325e.png" group-title="Bulgaria ➾ Sports",BG: Max Sport 4
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/16433
+#EXTINF:-1 tvg-id="" tvg-name="BG: Nova Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e5530cf51403f6f7477028fb17c52af1.png" group-title="Bulgaria ➾ Sports",BG: Nova Sport
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/10531
+#EXTINF:-1 tvg-id="" tvg-name="BG: Ring" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/fa8371c1337570fe3c71f94058299c42.png" group-title="Bulgaria ➾ Sports",BG: Ring
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/20466
+#EXTINF:-1 tvg-id="" tvg-name="BG: Auto Motor Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a923d8ec860e1511f2a9d7c58981d82f.png" group-title="Bulgaria ➾ Motor Sports",BG: Auto Motor Sport
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/69380
+#EXTINF:-1 tvg-id="" tvg-name="BG: Motorvision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8059b35ae05b6cbc9768c49fbe182f47.png" group-title="Bulgaria ➾ Motor Sports",BG: Motorvision
