@@ -85,3 +85,47 @@ http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/14987
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/14988
 #EXTINF:-1 tvg-id="" tvg-name="HU: Arena 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d07a5ee1eb8706c76031e09f4a252277.png" group-title="Hungary ➾ Sports",HU: Arena 4
 http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/280262
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Racing 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4e83942572ad754a569a7626d7c3a3a5.png" group-title="Australia",AU: Sky Racing 1
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/201085
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Racing 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fce7f3667c95105f6577e0455e619724.png" group-title="Australia",AU: Sky Racing 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/201086
+#EXTINF:-1 tvg-id="" tvg-name="AU: Optus Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/b5889cf31a6fbb687681c7b00b836e31.png" group-title="Australia",AU: Optus Sport 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/302777
+#EXTINF:-1 tvg-id="" tvg-name="AU: Optus Sport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Optus Sport 3
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304106
+#EXTINF:-1 tvg-id="" tvg-name="AU: Optus Sport 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Optus Sport 4
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304107
+#EXTINF:-1 tvg-id="" tvg-name="AU: Optus Sport 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Optus Sport 5
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304108
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="Australia",AU: Fox Sports 501
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/279034
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Australia",AU: Fox Sports 502
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/81784
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="Australia",AU: Fox Sports 503
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/280192
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="Australia",AU: Fox Sports 504
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/280193
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504 AFL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Fox Sports 504 AFL
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/306510
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="Australia",AU: Fox Sports 505
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/144772
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="Australia",AU: Fox Sports 506
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/279033
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="Australia",AU: Fox Sports 507
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/280194
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="Australia",AU: Fox Sports News
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/76006
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/166436
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png" group-title="Australia",AU: beIN Sports 1
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/35347
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1 [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: beIN Sports 1 [vip]
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304076
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png" group-title="Australia",AU: beIN Sports 2
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/35338
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2 [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: beIN Sports 2 [vip]
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304077
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" group-title="Australia",AU: beIN Sports 3
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/35340
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3 [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: beIN Sports 3 [vip]
+http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/304078
+
